@@ -1,0 +1,8 @@
+name: Lighting
+version: 1.0.0
+main: Test.Weapons.LightningStick
+api-version: 1.20
+commands:
+  CommandName:
+    description: Description of your command
+    usage: /commandusage

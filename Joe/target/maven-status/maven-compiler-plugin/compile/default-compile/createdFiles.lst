@@ -1,0 +1,11 @@
+Test\Weapons\GodSword.class
+Test\Event.class
+Test\Commands\Craft.class
+Test\Weapons\LightningStick.class
+Test\Enchant\Enchating.class
+Test\Menu\MenuListener.class
+Test\Plugin.class
+Test\Weapons\TP_Shove.class
+Test\Commands\Heal.class
+Test\Commands\bal.class
+Test\Menu\MenuCommand.class

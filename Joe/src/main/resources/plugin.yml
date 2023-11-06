@@ -1,0 +1,10 @@
+name: TestPlugin
+version: '${project.version}'
+main: Test.Plugin
+api-version: '1.20'
+commands:
+  Heal:
+  Craft:
+  Bal:
+  Menu:
+
